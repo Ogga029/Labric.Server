@@ -1,1 +1,1 @@
-Cw
+console.writeline("Hey");
